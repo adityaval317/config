@@ -2,9 +2,9 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Accounts PROD Microservice"
+  message: "Welcome to Accounts Production Microservice"
   contactDetails:
-    name: "Aditya PROD"
+    name: "Aditya Production"
     email: "{cipher}26e27debd4700079475f338b7116290a6c1f8da4db0e4b5c6b8434d796fa2dd4"
   onCallSupport:
     name: "Aditya PROD"
