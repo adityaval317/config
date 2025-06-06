@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Cards Production Microservice"
   contactDetails:
-    name: "Aditya PROD Cards"
+    name: "Aditya Production Cards"
     email: "Aditya@prod.com"
   onCallSupport:
     name: "Aditya PROD"
