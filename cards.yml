@@ -1,0 +1,12 @@
+cards:
+  message: "Welcome to Cards Microservice"
+  contactDetails:
+    name: "Aditya Cards"
+    email: "Aditya@local.com"
+  onCallSupport:
+    name: "Aditya Local"
+    phone:
+      - 5555555543
+      - 5555555578
+build:
+  version: 2.0
