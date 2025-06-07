@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to Loans prod Microservice by Aditya"
+  message: "Welcome to Loans prod Microservice by Aditya, updated by webhook"
   contactDetails:
     name: "Aditya Production"
     email: "Aditya@prod.com"
