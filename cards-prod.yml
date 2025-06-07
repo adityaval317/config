@@ -2,7 +2,7 @@ build:
   version: 3.0_cards
 
 cards:
-  message: "Welcome to Cards Production Microservice"
+  message: "Welcome to Cards Production Microservice by Aditya"
   contactDetails:
     name: "Aditya Production Cards"
     email: "Aditya@prod.com"
