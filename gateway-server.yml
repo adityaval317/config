@@ -1,0 +1,12 @@
+server:
+  port: 8072
+
+#Eureka Configuration
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://${SPRING_EUREKA_SERVER:localhost}:8070/eureka
