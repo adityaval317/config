@@ -1,6 +1,5 @@
 server:
   port: 9080
-
 #Eureka Configuration
 eureka:
   instance:
